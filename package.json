@@ -1,0 +1,25 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niteesh29/NodeJS.git"
+  },
+  "author": "niteesh mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niteesh29/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Niteesh29/NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2"
+  }
+}
